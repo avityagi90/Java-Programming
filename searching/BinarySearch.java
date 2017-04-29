@@ -3,6 +3,10 @@
 
 //If element is found then it will return the element index otherwise -1.
 
+/*
+https://www.hackerearth.com/practice/algorithms/searching/binary-search/tutorial/
+*/
+
 public class BinarySearch {
 
 	public static void main(String[] args) {
