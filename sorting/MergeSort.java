@@ -1,5 +1,10 @@
 package sorting;
 
+
+/*
+https://www.hackerearth.com/practice/algorithms/sorting/
+*/
+
 public class MergeSort {
 
 	public static void main(String[] args) {
